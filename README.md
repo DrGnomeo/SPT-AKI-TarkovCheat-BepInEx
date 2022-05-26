@@ -1,9 +1,16 @@
 # SPT AKI TarkovCheat BepInEx 2.3.1
  
-code updated by Gnome
+ BepInEx Plugin update by Gnome
 
-(Credits to https://github.com/JoakimCarlsson & @Zat on UC as this is completely based off their release back in march 2020)
-(Further Credit to https://github.com/NoClueWhoIAm for updating it later on, which is the version used here.)
+## Features:
+
+- Player ESP (includes: Draw Players, Draw Player Box, Draw Player Name, Draw Player Line, Draw Player Health, Player distance slider)
+- Item ESP (includes: Loot Item Distance slider || This version only shows the High valueable loot and quest item locations => Update soon to insert own loot tables)
+- Container ESP (includes: Distance slider)
+- Exfil ESP
+- No-Recoil
+- Open any locked doors with NUM4
+- Has Aimbot Code (It broke with recent updates and I dont know enough about EFT/Unity internally to fix it, but feel free to patch it back together)
 
 ## How to Install
 
@@ -40,3 +47,7 @@ EscapeFromTarkovCheat.dll in the plugins folder.
 
 You can now run the EmuTarkov like usual and the cheat should work like intended on the updated version.
 
+## Credits
+
+- Credits to https://github.com/JoakimCarlsson & @Zat on UC as this is completely based off their release back in march 2020
+- Further Credit to https://github.com/NoClueWhoIAm for updating it later on, which is the version used here.
